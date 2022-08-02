@@ -1,1 +1,1 @@
-This is a new version of chapter 3 that will be saved in the repository.
+Here is the chapter 3 of my git rep practice alien-themed version!
